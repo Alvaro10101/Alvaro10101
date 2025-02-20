@@ -1,5 +1,5 @@
 
-<h2 align="left">Olá 👋! Meu nome é Álvaro e eu sou um Desenvolvedor Back-End, from ....</h2>
+<h2 align="left">Olá 👋! Meu nome é Álvaro e eu sou um Desenvolvedor Back-End, do Ceará, Brasil.</h2>
 
 ###
 
